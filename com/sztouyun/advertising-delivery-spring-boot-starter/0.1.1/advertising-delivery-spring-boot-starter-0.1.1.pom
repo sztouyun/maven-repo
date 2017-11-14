@@ -5,7 +5,7 @@
 
     <groupId>com.sztouyun</groupId>
     <artifactId>advertising-delivery-spring-boot-starter</artifactId>
-    <version>0.1</version>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
     <name>advertising-delivery-spring-boot-starter</name>
